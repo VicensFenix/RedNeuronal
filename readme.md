@@ -54,3 +54,13 @@ En Windows:
 ```bash
 python -m venv venv
 venv\Scripts\activate
+
+
+### Clonar o tener el Proyecto
+
+1. **Clonar**: Clona el proyecto.
+
+``bash
+https://github.com/VicensFenix/RedNeuronal.git
+
+2. **Descarga el ZIP: Si no descarguen el .zip del proyecto.
